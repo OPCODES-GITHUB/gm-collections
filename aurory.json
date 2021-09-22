@@ -1,0 +1,8 @@
+{
+    "name": "Aurory",
+    "number_of_token": 10000,
+    "mint_type": "candy_machine",
+    "pubkey": "D49FEB8s1PjKYawXE6WW64QvaDPxT5ALNzqpxkD7XKkH",
+    "website": "https://app.aurory.io/",
+    "description": "Aurory, a PvE/PvP gaming project using NFTs, powered by Solana and Serum."
+}

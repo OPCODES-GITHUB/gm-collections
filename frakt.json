@@ -3,6 +3,97 @@
     "number_of_token": 10000,
     "website": "https://frakt.art/",
     "description": "The first generative art NFT project built on Solana",
+    "attributes": [
+        {
+            "trait_type": "art_hash",
+            "hidden": true,
+        },
+        {
+            "trait_type": "circles_amount",
+            "hidden": true,
+        },
+        {
+            "trait_type": "fractial_iterations",
+            "hidden": true,
+        },
+        {
+            "trait_type": "min_rad_low_limit",
+            "hidden": true,
+        },
+        {
+            "trait_type": "min_rad_high_limit",
+            "hidden": true,
+        },
+        {
+            "trait_type": "max_rad_low_limit",
+            "hidden": true,
+        },
+        {
+            "trait_type": "max_rad_high_limit",
+            "hidden": true,
+        },
+        {
+            "trait_type": "image_url",
+            "hidden": true,
+        },
+        {
+            "trait_type": "artAccountPubkey",
+            "hidden": true,
+        },
+        {
+            "trait_type": "is_old_version",
+            "hidden": true,
+        },
+        {
+            "trait_type": "isInitialized",
+            "hidden": true,
+        },
+        {
+            "trait_type": "id",
+            "hidden": true,
+        },
+        {
+            "trait_type": "first_owner_pubkey",
+            "hidden": true,
+        },
+        {
+            "trait_type": "minted_token_pubkey",
+            "hidden": true,
+        },
+        {
+            "trait_type": "is_minted",
+            "hidden": true,
+        },
+        {
+            "trait_type": "created_at",
+            "hidden": true,
+        },
+        {
+            "trait_type": "shape",
+            "hidden": false,
+            "name":	"Shape",
+        },
+        {
+            "trait_type": "color",
+            "hidden": false,
+            "name":	"Color",
+        },
+        {
+            "trait_type": "fractial_iterations",
+            "hidden": false,
+            "name":	"Fractial iterations",
+        },
+        {
+            "trait_type": "shape_rarity",
+            "hidden": false,
+            "name":	"Shape rarity",
+        },
+        {
+            "trait_type": "color_rarity",
+            "hidden": false,
+            "name":	"Color rarity",
+        },
+    ],
     "mintlist": [
         "GuMpszk8mzL5Y2k91vwgwUzYmZ29FdjcaUj22uTCPXTv",
         "Hm6p1sjVEkcVaE4ZQnuwmd8N65VXuyvbUXxWi14wvUKb",

@@ -6,11 +6,11 @@
     "attributes": [
         {
             "trait_type": "generation",
-            "hidden": true
+            "is_hidden": true
         },
         {
             "trait_type": "sequence",
-            "hidden": true
+            "is_hidden": true
         }
     ],
     "mintlist": [

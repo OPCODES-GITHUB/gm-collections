@@ -3,14 +3,6 @@
     "number_of_token": 5000,
     "website": "https://solanamonkey.business",
     "description": "SMB is a collection of 5000 unique randomly generated SolanaMonkeys stored on the blockchain",
-    "attributes": [
-        {
-            "trait_type": "Attributes Count",
-            "is_excluded_from_score": true,
-            "is_excluded_from_filters": false,
-            "is_excluded_from_modal": false
-        }
-    ],
     "mintlist": [
         "2sQtGiaXdKAayVbSPExBJVLp3ymnd8QmdKFBY4B7AVmJ",
         "Esv9qkvaqFudHFSXk82pAxikReGo49nR63PAnLMbSjMf",

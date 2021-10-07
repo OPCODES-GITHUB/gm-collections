@@ -8,13 +8,13 @@
             "trait_type": "generation",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,
-            "is_excluded_from_modal": true,
+            "is_excluded_from_modal": true
         },
         {
             "trait_type": "sequence",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,
-            "is_excluded_from_modal": true,
+            "is_excluded_from_modal": true
         }
     ],
     "mintlist": [

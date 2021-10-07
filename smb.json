@@ -8,7 +8,7 @@
             "trait_type": "Attributes Count",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": false,
-            "is_excluded_from_modal": false,
+            "is_excluded_from_modal": false
         }
     ],
     "mintlist": [

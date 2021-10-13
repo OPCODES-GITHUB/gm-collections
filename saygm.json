@@ -9,13 +9,13 @@
             "trait_type": "rotation",
             "is_excluded_from_score": false,
             "is_excluded_from_filters": true,
-            "is_excluded_from_modal": false,
+            "is_excluded_from_modal": false
         },
         {
             "trait_type": "generation",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,
-            "is_excluded_from_modal": true,
+            "is_excluded_from_modal": true
         }
     ],
     "description": "Say GM explores the positive feelings of saying Good Morning to each other, through unique NFTs in a 16 by 9 size ratio intended for sharing."

@@ -49,7 +49,7 @@
         {
             "trait_type": "Rank",
             "is_excluded_from_score": true,
-            "is_excluded_from_filters": false,
+            "is_excluded_from_filters": true,
             "is_excluded_from_modal": false
         }
     ],

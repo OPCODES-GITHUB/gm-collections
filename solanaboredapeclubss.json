@@ -5,6 +5,48 @@
     "description": "We are a tribute and a unique extension, rejected from the ETH, we get tired of the high fee costs.",
     "attributes": [
         {
+            "trait_type": "Attribute 1",
+            "name": "Clothes",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Attribute 2",
+            "name": "Earring",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Attribute 3",
+            "name": "Eyes",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Attribute 4",
+            "name": "Fur",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Attribute 5",
+            "name": "Hat",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Attribute 6",
+            "name": "Mouth",
+            "is_excluded_from_score": false,
+            "is_excluded_from_filters": false,
+            "is_excluded_from_modal": false
+        },
+        {
             "trait_type": "Rank",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,

@@ -3,6 +3,7 @@
     "number_of_token": 100,
     "website": "https://artemcryptoart.com",
     "description": "100 exclusives pieces of art powered by the blockchain and forever anchored in the Metaverse.",
+    "disable_ranking": true,
     "mintlist": [
       "3PvfE8hbSSt3yeVT2We7ZyAWVMU86MziaX1kJjiLqPvy",
       "FkbtLLLSxjnWvr59ggBhnkL5HPayV67mYFFzjJHLuzbA",

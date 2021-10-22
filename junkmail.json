@@ -1,9 +1,9 @@
 {
-    "name": "Junk Mail",
-    "number_of_token": 6969,
-    "website": "https://nftjunkmail.com/",
-    "description": "6969 generative and unsolicited but hopefully not unrequited expressions of interest. In the spirit of the metaverse these are distributed via permissionless (and consentless) airdrop.",
-    "mintlist": [
+   "name":"Junk Mail",
+   "number_of_token":6969,
+   "website":"https://nftjunkmail.com/",
+   "description":"6969 generative and unsolicited but hopefully not unrequited expressions of interest. In the spirit of the metaverse these are distributed via permissionless (and consentless) airdrop.",
+   "mintlist":[
       "2dwTfRiTnbtH4qoVSUTv4GkgFBPy151RMQvYHH5gAjr4",
       "CmPsmt5skmNqCUnrcotUUvP1nifffXTDdKuBwzYtT3v",
       "7NMMyFKWbGEKLJ1cPxt3GPfxVLhHrd1rvQH8TX3eAFyh",
@@ -5252,8 +5252,7 @@
       "BXTPzTxdG77WuBYodwuTjfTSskHLq8mm3FEpiSoDGDAP",
       "J19hHQiaoe3dW1monSHvwVLTmrc5eVBSfYNjGnbewkiG",
       "6ZGC6dFnbMCqgVpZJo2bHyfCYgAiDyjYAiSAnsKBZDqX",
-      "2aTXEb78iE3RwHdrw7XrovjNXURuXX7bW8
-    d27ud3Wcbg",
+      "2aTXEb78iE3RwHdrw7XrovjNXURuXX7bW8d27ud3Wcbg",
       "TrVR5zCUYBe8UY2cJxW4dMPGXtjXPzoXHKP6BggDf9k",
       "8B6tey1Z37koaJBo9LkSx3QmDT8YS9BzHu3gpcihW8y1",
       "GbotK5CAwpVbzsWqEcQx8cDm9fJGhy9mbW7XzcvDXtsL",
@@ -6977,5 +6976,5 @@
       "7fwnFcRkQF8bDQivUYBKcFhqxGuyXedvaWW4fNdxUWPJ",
       "5MA3uPLAzU5Tv4cbAzfF5D5syWpDjMzoqoU8Y1uwYyGU",
       "DnFd42vjL5UDze59HgPAebLZhgi5uY51JPiSgeb1S6Ew"
-    ]
+   ]
 }

@@ -4,9 +4,16 @@
     "mint_type": "candy_machine",
     "pubkey": ["6i2GJDBFp1BzYbHTgLYNM1hUfVs2qrTWk81uR1RoFqDt","G71mXPJDGnKBTeom5GJx1taQikodDrCtCRiyobDcGs8W"],
     "website": "https://soltato.io/",
+    "custom_ranking": "Rank",
     "attributes": [
         {
             "trait_type": "Sequence",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": true
+        },
+        {
+            "trait_type": "Rank",
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,
             "is_excluded_from_modal": true

@@ -4,5 +4,6 @@
     "mint_type": "candy_machine",
     "pubkey": "GVDDzaWJ4JtDLTyJojcw61Y36y6tY92ssczZaLELFrs2",
     "website": "https://expanses.ai/",
+    "disable_rankin": true,
     "description": "GAN NFT collection house on Solana."
 }

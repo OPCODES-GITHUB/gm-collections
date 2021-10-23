@@ -4,5 +4,13 @@
     "mint_type": "candy_machine",
     "pubkey": ["6i2GJDBFp1BzYbHTgLYNM1hUfVs2qrTWk81uR1RoFqDt","G71mXPJDGnKBTeom5GJx1taQikodDrCtCRiyobDcGs8W"],
     "website": "https://soltato.io/",
+    "attributes": [
+        {
+            "trait_type": "Sequence",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": true
+        }
+    ],
     "description": "Soltato is the fist animated and generative NFT with 6% of animated supply. Best served with $FRIES airdropped to NFT holders weekly."
 }

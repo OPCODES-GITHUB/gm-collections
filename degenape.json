@@ -2,7 +2,7 @@
     "name": "Degenerate Ape Academy",
     "number_of_token": 10000,
     "website": "https://www.degenape.academy/",
-    "description": "The Degenerate Ape Academy is an NFT brand housed on the Solana blockchain. The academy consists of 10,000 degenerate ape NFTs",
+    "description": "The Degenerate Ape Academy is an NFT brand housed on the Solana blockchain. The academy consists of 10,000 degenerate ape NFTs.",
     "attributes": [
         {
             "trait_type": "generation",

@@ -1,0 +1,8 @@
+{
+    "name": "TowerDAO",
+    "number_of_token": 10000,
+    "mint_type": "candy_machine",
+    "pubkey": "6PTSaVPGLzzgAqw9veQUVKhW2ggsEaV5ghBeLsQn2GVN",
+    "website": "https://towerdao.com/",
+    "description": "The Tower is a futuristic skyscraper in the metaverse of Solana. 10k Residences are available to mint!"
+}

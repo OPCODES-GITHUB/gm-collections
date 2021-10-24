@@ -3,6 +3,15 @@
     "number_of_token": 3333,
     "mint_type": "candy_machine",
     "pubkey": ["BGGUtR4NKV7MMQZqnnNmkmBAVN78mYfCx8A8qBD1aMGJ", "DrcZppd2kCMi6WcvgRKXQjm8eEU47C83vVSewCFaUouQ"],
-    "website": "https://solapesnft.com/",
+    "website": "https://solapesnft.com",
+    "custom_ranking": "Rank",
+    "attributes": [
+        {
+            "trait_type": "Rank",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": false
+        }
+    ],
     "description": "SolApes are 3333 algorithmically generated collectable NFTs swinging on the Solana Blockchain. SolApes incorporates over 100 unique traits varying in rarity across 8 layers."
 }

@@ -3,6 +3,7 @@
     "number_of_token": 4200,
     "website": "https://abstratica.art/",
     "description": "AI Generative Arts on Solana",
+    "disable_ranking": true,
     "mintlist": [
         "HhN6qJdckeXzjnBHQU2ndrs2fdtQQXrbcnhXfQ6Vag5E",
         "DFmbMCNC8XENvK5t4RXHHND8VnAg38k8G1Qy4B6SABUv",

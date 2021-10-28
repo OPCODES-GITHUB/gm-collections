@@ -2,6 +2,7 @@
     "name": "Finality",
     "number_of_token": 500,
     "website": "https://finality.club",
+    "disable_ranking":true;
     "description": "Collective based curation and generation of AI art. It means nothing to you.",
     "mintlist": [
         "6vxVMQCEDvvsiTBxZegPry9UYFoWPhvLBbcpTPLhURq3",

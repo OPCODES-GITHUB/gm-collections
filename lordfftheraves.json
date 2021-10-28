@@ -10,6 +10,18 @@
             "is_excluded_from_score": true,
             "is_excluded_from_filters": true,
             "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Base",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": false
+        },
+        {
+            "trait_type": "Average Rarity",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": false
         }
     ],
     "custom_ranking": "Rank",

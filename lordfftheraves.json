@@ -1,0 +1,17 @@
+{
+    "name": "Lord of the Raves",
+    "number_of_token": 54,
+    "mint_type": "candy_machine",
+    "pubkey": "HVyguwXmRt1m4dugeA2vBYh69FAqpsdEZgGEkRH4aArb",
+    "website": "https://www.lordoftheraves.party/",
+    "attributes": [
+        {
+            "trait_type": "Rank",
+            "is_excluded_from_score": true,
+            "is_excluded_from_filters": true,
+            "is_excluded_from_modal": false
+        }
+    ],
+    "custom_ranking": "Rank",
+    "description": "Fantasy X Street Art X Rave Culture. Unique #Solana NFT Collection Of Party Wizards Designed By A Talented French Artist Kekli.fr. Project's Vision Is To Create And Support A Cryptocurrency Friendly Environment Within The Rave And Music/Art Festival Movement."
+}

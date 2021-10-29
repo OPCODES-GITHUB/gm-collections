@@ -2,7 +2,7 @@
     "name": "Solana Island Boiz",
     "number_of_token": 1111,
     "mint_type": "candy_machine",
-    "pubkey": ["EWxVue3FA1eK6oumGbSXrtaviBjzfDzsBBBTmdNrGjMq", "NWwcg3PTLR2Z6oVT1TvXurmPzXyXPimTsL7DeU8ee2c", "4e2oSmbaxujv6gS5ZBVjVzys2f5JZbAVPBdv8vUQvUHq"]
+    "pubkey": ["EWxVue3FA1eK6oumGbSXrtaviBjzfDzsBBBTmdNrGjMq", "NWwcg3PTLR2Z6oVT1TvXurmPzXyXPimTsL7DeU8ee2c", "4e2oSmbaxujv6gS5ZBVjVzys2f5JZbAVPBdv8vUQvUHq"],
     "website": "https://solanaislandboiz.com/",
     "description": "1111 Solana Island Boiz enjoying life on the Solana blockchain."
 }

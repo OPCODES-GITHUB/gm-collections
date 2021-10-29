@@ -3,6 +3,7 @@
     "number_of_token": 2000,
     "website": "https://soltones.io/",
     "description": "A Collection Of 2000 Unique Tones.",
+    "disable_ranking": true,
     "mintlist": [
       "GxiJNmjbc48EgUZycSkmAfiXRt1JTdTZkHBwHnyrq3TY",
       "Ece5txwj65DMrhmohJfkHroK8bE7eQbHF5igu6QNJoaD",
